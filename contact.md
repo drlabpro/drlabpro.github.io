@@ -1,3 +1,9 @@
+---
+layout: page
+title: Contact Me
+permalink: /contact/
+---
+
 ## Dr Lab Pro 
 Hello buddie,
 
